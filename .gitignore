@@ -1,0 +1,9 @@
+**/credentials/service_account.json
+**/credentials/*.json
+!**/credentials/service_account.example.json
+*.key
+*.pem
+**/.venv/
+**/__pycache__/
+*.pyc
+**/data/

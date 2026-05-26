@@ -1,0 +1,86 @@
+br-mec-segape-dev.educacao_politica_tesouro.tesouro_orcamento_universidade_federal_grupo
+
+
+[
+  {
+    "name": "id_unidade_orcamentaria",
+    "mode": "",
+    "type": "INTEGER",
+    "description": "Identificador único da Unidade Orçamentária.",
+    "fields": []
+  },
+  {
+    "name": "unidade_orcamentaria",
+    "mode": "",
+    "type": "STRING",
+    "description": "Nome da Unidade Orçamentária.",
+    "fields": []
+  },
+  {
+    "name": "grupo_unidade_orcamentaria",
+    "mode": "",
+    "type": "STRING",
+    "description": "Categoria de agrupamento institucional das Unidades Orçamentárias.",
+    "fields": []
+  },
+  {
+    "name": "data_ultima_atualizacao",
+    "mode": "",
+    "type": "DATE",
+    "description": "Data da última atualização das informações.",
+    "fields": []
+  }
+]
+
+
+[{
+  "id_unidade_orcamentaria": "26435",
+  "unidade_orcamentaria": "Instituto Federal do Rio Grande do Norte",
+  "grupo_unidade_orcamentaria": "Institutos",
+  "data_ultima_atualizacao": "2025-10-20"
+}, {
+  "id_unidade_orcamentaria": "26414",
+  "unidade_orcamentaria": "Instituto Federal do Mato Grosso",
+  "grupo_unidade_orcamentaria": "Institutos",
+  "data_ultima_atualizacao": "2025-10-20"
+}, {
+  "id_unidade_orcamentaria": "26201",
+  "unidade_orcamentaria": "Colégio Pedro II",
+  "grupo_unidade_orcamentaria": "Institutos",
+  "data_ultima_atualizacao": "2025-10-20"
+}, {
+  "id_unidade_orcamentaria": "26416",
+  "unidade_orcamentaria": "Instituto Federal do Pará",
+  "grupo_unidade_orcamentaria": "Institutos",
+  "data_ultima_atualizacao": "2025-10-20"
+}, {
+  "id_unidade_orcamentaria": "26425",
+  "unidade_orcamentaria": "Instituto Federal do Acre",
+  "grupo_unidade_orcamentaria": "Institutos",
+  "data_ultima_atualizacao": "2025-10-20"
+}, {
+  "id_unidade_orcamentaria": "26418",
+  "unidade_orcamentaria": "Instituto Federal de Pernambuco",
+  "grupo_unidade_orcamentaria": "Institutos",
+  "data_ultima_atualizacao": "2025-10-20"
+}, {
+  "id_unidade_orcamentaria": "26404",
+  "unidade_orcamentaria": "Instituto Federal Baiano",
+  "grupo_unidade_orcamentaria": "Institutos",
+  "data_ultima_atualizacao": "2025-10-20"
+}, {
+  "id_unidade_orcamentaria": "26412",
+  "unidade_orcamentaria": "Instituto Federal do Sul de Minas Gerais",
+  "grupo_unidade_orcamentaria": "Institutos",
+  "data_ultima_atualizacao": "2025-10-20"
+}, {
+  "id_unidade_orcamentaria": "26257",
+  "unidade_orcamentaria": "Centro Federal de Educação Tecnológica de Minas Gerais",
+  "grupo_unidade_orcamentaria": "Institutos",
+  "data_ultima_atualizacao": "2025-10-20"
+}, {
+  "id_unidade_orcamentaria": "26421",
+  "unidade_orcamentaria": "Instituto Federal de Rondônia",
+  "grupo_unidade_orcamentaria": "Institutos",
+  "data_ultima_atualizacao": "2025-10-20"
+}]

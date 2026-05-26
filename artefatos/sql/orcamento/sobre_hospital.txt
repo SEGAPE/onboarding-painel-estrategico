@@ -1,0 +1,696 @@
+
+Transcrição. Use as teclas de direção para navegar entre entradas de transcrição. Selecione uma entrada para navegar pela mídia até a hora da entrada.
+
+
+Pesquisar
+
+O conteúdo gerado por IA pode estar incorreto
+
+André da Silva Batista de Farias (STIC\SEGAPE) começou a transcrição
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+0 minutos 4 segundos0:04
+Robson Bento Santos (GM/SEGAPE/MEC) 0 minutos 4 segundos
+Eu IA até fazer isso, esqueci.
+Robson Bento Santos (GM/SEGAPE/MEC) 0 minutos 7 segundos
+Pronto, já tá gravando, é, eu acho que.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+0 minutos 9 segundos0:09
+André da Silva Batista de Farias (STIC\SEGAPE) 0 minutos 9 segundos
+Você chegou a abrir o dashboard de ontem?
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+0 minutos 12 segundos0:12
+Robson Bento Santos (GM/SEGAPE/MEC) 0 minutos 12 segundos
+Não ficou. Ficou bem legal. Só eu só tenho um detalhezinho ali que eu vou só te mostrar, mas está ótimo.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+0 minutos 12 segundos0:12
+André da Silva Batista de Farias (STIC\SEGAPE) 0 minutos 12 segundos
+Okay.
+André da Silva Batista de Farias (STIC\SEGAPE) 0 minutos 17 segundos
+A boa não, tranquilo. Aí é, eu falava para tu tentar abrir também. Ele, se não tivesse aberto antes, mas tranquilo.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+0 minutos 26 segundos0:26
+Robson Bento Santos (GM/SEGAPE/MEC) 0 minutos 26 segundos
+Abriu, abriu de boa, tranquilo. Vou até aproveitar para já deixar ele aberto aqui. Só um é um detalhe bobo técnico assim, só para a gente.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+0 minutos 27 segundos0:27
+André da Silva Batista de Farias (STIC\SEGAPE) 0 minutos 27 segundos
+Tá bom?
+André da Silva Batista de Farias (STIC\SEGAPE) 0 minutos 32 segundos
+Não, a gente altera agora.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+0 minutos 35 segundos0:35
+Robson Bento Santos (GM/SEGAPE/MEC) 0 minutos 35 segundos
+Deixa eu abrir aqui.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+8 minutos 26 segundos8:26
+Robson Bento Santos (GM/SEGAPE/MEC) 8 minutos 26 segundos
+Pronto, aí esse é um filtro que para a gente já deixar OA parte é temporal igual para só analisar esses esses 2 Peru, esses 2 triênios. O outro filtro é o filtro quando a gente vai lá, porque como essa é a base do MEC, completa, está tudo. Então ali tem FMDE, tem MEC, tem caps tem.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+8 minutos 27 segundos8:27
+André da Silva Batista de Farias (STIC\SEGAPE) 8 minutos 27 segundos
+Okay.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+8 minutos 46 segundos8:46
+Robson Bento Santos (GM/SEGAPE/MEC) 8 minutos 46 segundos
+Em todo universidades, institutos para estar todo mundo lá. Então o segundo filtro que a gente tem que fazer é no na coluna IDUO, certo? Está aqui. E aí está aí no nesse que eu coloquei no chat, na IDUO.
+Robson Bento Santos (GM/SEGAPE/MEC) 9 minutos 2 segundos
+E aí, o que é OIDO? É o codigozinho da instituição, não é? Então, para a gente não está botando lá hóspede, hospital, alguma coisinha, por acaso tem alguma abreviação, alguma coisa? Eu peguei, eu selecionei os códigos dos hospitais.
+Robson Bento Santos (GM/SEGAPE/MEC) 9 minutos 17 segundos
+Aí só mostrando aqui, cadê? Deixa eu abrir aqui. Então é essa relação aqui também, esse códigozinho aqui é tudo hospital, todos os códigos dos hospitais. Então aí que a gente vai fazer nessa tabela.
+Robson Bento Santos (GM/SEGAPE/MEC) 9 minutos 32 segundos
+Está aí nesse código que eu te coloquei, eu te mandei, já estão todos os códigos, então basicamente é lá na coluna e deu o deixar selecionado somente esses esses códigos que eu passei aí, certo? Então tem que ser igual AO código, como por exemplo, aqui.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+9 minutos 43 segundos9:43
+André da Silva Batista de Farias (STIC\SEGAPE) 9 minutos 43 segundos
+O.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+9 minutos 51 segundos9:51
+Robson Bento Santos (GM/SEGAPE/MEC) 9 minutos 51 segundos
+Ele começa com código 26 294 2635-8359, esses códigos um chat, aí a gente coloca lá, coloca lá no código, que aí ele vai deixar, aí sim, aí a base vai estar pronta, ou seja, ela vai estar nos 2 triênios.
+Robson Bento Santos (GM/SEGAPE/MEC) 10 minutos 7 segundos
+E só OE só hospital, então aí a tabela virou uma tabela só do hospital com esses 2 filtros, certo?
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+10 minutos 14 segundos10:14
+André da Silva Batista de Farias (STIC\SEGAPE) 10 minutos 14 segundos
+Certo.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+10 minutos 15 segundos10:15
+Robson Bento Santos (GM/SEGAPE/MEC) 10 minutos 15 segundos
+Pronto. Aí com isso a gente já tem as informações, é do hospital. E aí a coluna que vai acontecer é AO orçamento, é sempre essa daqui que é despesa empenhada. Eu não sei o número da coluna, mas deixa eu lhe dizer aqui contando.
+Robson Bento Santos (GM/SEGAPE/MEC) 10 minutos 35 segundos
+São 3 coluna é a coluna 13.
+Robson Bento Santos (GM/SEGAPE/MEC) 10 minutos 39 segundos
+Certo, então, o quando for fazer o somatório lá vai ser a coluna 13.
+Robson Bento Santos (GM/SEGAPE/MEC) 10 minutos 46 segundos
+Okay.
+Robson Bento Santos (GM/SEGAPE/MEC) 10 minutos 49 segundos
+Aí vê, agora vem a questão da integração com a outra tabela.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+10 minutos 51 segundos10:51
+André da Silva Batista de Farias (STIC\SEGAPE) 10 minutos 51 segundos
+Mhm.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+10 minutos 55 segundos10:55
+Robson Bento Santos (GM/SEGAPE/MEC) 10 minutos 55 segundos
+É essa tabela daqui. Como eu te disse, o que interessa para você é fazer o filtro e a coluna 13. Só tudo que tiver na coluna 13 já vai ser. O valor do orçamento é originário dos hospitais.
+Robson Bento Santos (GM/SEGAPE/MEC) 11 minutos 11 segundos
+Aí aqui não precisa fazer mais nada, é só somar a coluna 13. Aí você já vai ter a informação do orçamento. Deixa eu só colocar aqui.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+11 minutos 14 segundos11:14
+André da Silva Batista de Farias (STIC\SEGAPE) 11 minutos 14 segundos
+Pois.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+11 minutos 21 segundos11:21
+Robson Bento Santos (GM/SEGAPE/MEC) 11 minutos 21 segundos
+Voltando aqui.
+Robson Bento Santos (GM/SEGAPE/MEC) 11 minutos 24 segundos
+É que é o orçamento empenhado que foi chamado pronto, é o orçamento empenhado. Então, o que é o orçamento empenhado da dos hospitais? É a é essa tabela inteira. Como ela só tem hospital, depois desses 2 filtros, é a soma da coluna. E a crise?
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+11 minutos 26 segundos11:26
+André da Silva Batista de Farias (STIC\SEGAPE) 11 minutos 26 segundos
+Moreira.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+11 minutos 39 segundos11:39
+Robson Bento Santos (GM/SEGAPE/MEC) 11 minutos 39 segundos
+Acabou, soma a coluna 3. Você tem a despesa empenhada dos é hospitais. Aí o que acontece aqui? Quando você aí é que eu acho que aí eu não sei o que eu uso no Power BI.
+Robson Bento Santos (GM/SEGAPE/MEC) 11 minutos 54 segundos
+Essa métrica aqui que você coloca, que é orçamento empenhado, não é a soma da despesa empenhada.
+Robson Bento Santos (GM/SEGAPE/MEC) 12 minutos 3 segundos
+Então ela vai ter que AO que vai ser AO orçamento empenhado aqui, que eu não sei como é que você colocou lá. Deixa eu só voltar aqui no deixa eu te lembrar.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+12 minutos 12 segundos12:12
+André da Silva Batista de Farias (STIC\SEGAPE) 12 minutos 12 segundos
+Deixa eu dar uma olhada, inclusive, pô, calma aí, deixa eu te colocar.
+André da Silva Batista de Farias (STIC\SEGAPE) 12 minutos 18 segundos
+É como editou aqui da página, acho que aí fica mais fácil. Deixa eu pegar que tem e-mail só um segundo.
+André da Silva Batista de Farias (STIC\SEGAPE) 12 minutos 25 segundos
+Porque aí tu consegue dar uma olhada nisso já a qualquer momento, principalmente nessa página. Deixa eu colocar aqui com o editor logo.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+12 minutos 31 segundos12:31
+Robson Bento Santos (GM/SEGAPE/MEC) 12 minutos 31 segundos
+Pronto, ótimo.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+12 minutos 36 segundos12:36
+André da Silva Batista de Farias (STIC\SEGAPE) 12 minutos 36 segundos
+Dá um Ctrl Shift R aí no teu navegador.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+12 minutos 40 segundos12:40
+Robson Bento Santos (GM/SEGAPE/MEC) 12 minutos 40 segundos
+Porto shift r.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+12 minutos 42 segundos12:42
+André da Silva Batista de Farias (STIC\SEGAPE) 12 minutos 42 segundos
+Isso.
+André da Silva Batista de Farias (STIC\SEGAPE) 12 minutos 46 segundos
+Esperando ele atualizar.
+André da Silva Batista de Farias (STIC\SEGAPE) 12 minutos 59 segundos
+Oh, aí está parecendo a gente se meditar agora.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+13 minutos 4 segundos13:04
+Robson Bento Santos (GM/SEGAPE/MEC) 13 minutos 4 segundos
+Tá.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+13 minutos 5 segundos13:05
+André da Silva Batista de Farias (STIC\SEGAPE) 13 minutos 5 segundos
+Aí tu clica em editar ali.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+13 minutos 8 segundos13:08
+Robson Bento Santos (GM/SEGAPE/MEC) 13 minutos 8 segundos
+Esse ele está rodando aqui para mim.
+Robson Bento Santos (GM/SEGAPE/MEC) 13 minutos 15 segundos
+Ed.
+Robson Bento Santos (GM/SEGAPE/MEC) 13 minutos 16 segundos
+Editar.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+13 minutos 17 segundos13:17
+André da Silva Batista de Farias (STIC\SEGAPE) 13 minutos 17 segundos
+Aí é aí ele sumiu, mas é só ficar com sobe um pouquinho do teu mouse aí.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+13 minutos 22 segundos13:22
+Robson Bento Santos (GM/SEGAPE/MEC) 13 minutos 22 segundos
+I put that.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+13 minutos 24 segundos13:24
+André da Silva Batista de Farias (STIC\SEGAPE) 13 minutos 24 segundos
+Aí tu clica em editar.
+André da Silva Batista de Farias (STIC\SEGAPE) 13 minutos 26 segundos
+Aí desce um pouquinho, só clica naquele gráfico ali para ver o que foi que o que a gente colocou, que o corpo de Jesus tinha colocado na verdade.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+13 minutos 33 segundos13:33
+Robson Bento Santos (GM/SEGAPE/MEC) 13 minutos 33 segundos
+Aham.
+Robson Bento Santos (GM/SEGAPE/MEC) 13 minutos 34 segundos
+Contatto.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+13 minutos 35 segundos13:35
+André da Silva Batista de Farias (STIC\SEGAPE) 13 minutos 35 segundos
+Aí você pode clicar nele, naquele gráfico, ele vai abrir bem ali é a métrica que eu tinha usado na hora. Clica ali, tá, só tá orçamento, mas eu acho que é um nome genérico. Clica ali no lápis do lado.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+13 minutos 37 segundos13:37
+Robson Bento Santos (GM/SEGAPE/MEC) 13 minutos 37 segundos
+Mhm.
+Robson Bento Santos (GM/SEGAPE/MEC) 13 minutos 43 segundos
+Pois.
+Robson Bento Santos (GM/SEGAPE/MEC) 13 minutos 49 segundos
+Okay.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+13 minutos 50 segundos13:50
+André da Silva Batista de Farias (STIC\SEGAPE) 13 minutos 50 segundos
+No lápis que tem melhor em lançamento, aí disse, aparece um lápis de Lima, aí total empenhado que eu tinha usado.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+13 minutos 53 segundos13:53
+Robson Bento Santos (GM/SEGAPE/MEC) 13 minutos 53 segundos
+Aqui sim.
+Robson Bento Santos (GM/SEGAPE/MEC) 13 minutos 58 segundos
+Pronto, beleza, é isso mesmo. Agora, esse total empenhado.
+Robson Bento Santos (GM/SEGAPE/MEC) 14 minutos 4 segundos
+É pronto. Aí esse total empenhado é o que a gente vai fazer. Esse total empenhado que você colocou aqui é o somatório da coluna empenhado daquela tabela, não é isso?
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+14 minutos 17 segundos14:17
+André da Silva Batista de Farias (STIC\SEGAPE) 14 minutos 17 segundos
+Isso.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+14 minutos 18 segundos14:18
+Robson Bento Santos (GM/SEGAPE/MEC) 14 minutos 18 segundos
+Aí o que você vai ter que fazer aqui é que vai criar uma métrica.
+Robson Bento Santos (GM/SEGAPE/MEC) 14 minutos 23 segundos
+Porque esse aqui ele está somando de uma tabela só. Aí você pode botar total empenhado o orçamento de alguma coisa que vai ser esse daqui, que é o soma do total empenhado dessa tabela, mais o dessa outra. Você entendeu?
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+14 minutos 25 segundos14:25
+André da Silva Batista de Farias (STIC\SEGAPE) 14 minutos 25 segundos
+Certo.
+André da Silva Batista de Farias (STIC\SEGAPE) 14 minutos 36 segundos
+Entendi.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+14 minutos 38 segundos14:38
+Robson Bento Santos (GM/SEGAPE/MEC) 14 minutos 38 segundos
+Por que? Porque aqui ele só está pegando de uma única tabela, que aquela tabela só para a gente só se localizar aqui.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+14 minutos 39 segundos14:39
+André da Silva Batista de Farias (STIC\SEGAPE) 14 minutos 39 segundos
+Pazam Dutra Lima Dutra.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+14 minutos 47 segundos14:47
+Robson Bento Santos (GM/SEGAPE/MEC) 14 minutos 47 segundos
+Eita, deixa eu voltar aqui, porque ele está pegando essa informação que você está colocando, ele está pegando essa daqui, Tesouro, unidade orçamentária.
+Robson Bento Santos (GM/SEGAPE/MEC) 14 minutos 57 segundos
+Certo, é porque eu estou fazendo a reunião contigo. Eu não sei que tem pressa, eu IA fazer. Eu quero fazer isso no documento. Eu digo, eu vou fazer para adiantar, mas como eu não sei se eu vou conseguir a tempo, porque tem as outras demandas do MG também. Aí é uma correria.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+15 minutos 3 segundos15:03
+André da Silva Batista de Farias (STIC\SEGAPE) 15 minutos 3 segundos
+Sara.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+15 minutos 12 segundos15:12
+Robson Bento Santos (GM/SEGAPE/MEC) 15 minutos 12 segundos
+Então, assim, essa informação que você colocou do total empenhado, você pegou essa coluna aqui ou essa coluna, não essa tabela, deixa eu só pegar aqui. E a coluna 27 dela.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+15 minutos 20 segundos15:20
+André da Silva Batista de Farias (STIC\SEGAPE) 15 minutos 20 segundos
+Isso.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+15 minutos 25 segundos15:25
+Robson Bento Santos (GM/SEGAPE/MEC) 15 minutos 25 segundos
+Você mandou somar isso aqui é pronto, que é 27.
+Robson Bento Santos (GM/SEGAPE/MEC) 15 minutos 29 segundos
+Que é isso mesmo, perfeito. E aí, OK? Só que como entrou essa outra tabela?
+Robson Bento Santos (GM/SEGAPE/MEC) 15 minutos 36 segundos
+Que a do dos como é o nome dos hospitais. Você vai criar uma métrica. Eu vou fazer aqui no Brito rapidinho, porque como eu não sei mexer, eu não sei muito o Lucas ainda, o Lucas.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+15 minutos 49 segundos15:49
+André da Silva Batista de Farias (STIC\SEGAPE) 15 minutos 49 segundos
+Nicholas.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+15 minutos 52 segundos15:52
+Robson Bento Santos (GM/SEGAPE/MEC) 15 minutos 52 segundos
+Mas eu vou aprender.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+15 minutos 52 segundos15:52
+André da Silva Batista de Farias (STIC\SEGAPE) 15 minutos 52 segundos
+É a mesma coisa que a Fernandes, Fernandes, Fernandes, Fernandes. É tipo, é praticamente a mesma coisa, só que sem as funcionalidades complexas do Piego Piego Piego é muito mais completo e mais difícil assim. Mas é muito melhor, muito melhor Piego Piego Lucas é muito, parece que foi feito na base da gambiarra.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+15 minutos 53 segundos15:53
+Robson Bento Santos (GM/SEGAPE/MEC) 15 minutos 53 segundos
+É semelhante.
+Robson Bento Santos (GM/SEGAPE/MEC) 16 minutos 4 segundos
+É então.
+Robson Bento Santos (GM/SEGAPE/MEC) 16 minutos 11 segundos
+Eu tô. Eu vou pegar um aqui só pra pra mostrar. É, mas basicamente você vai criar uma métrica aqui do Power BI, que é a nova. Não sei como ela a nova medida, porque pelo que eu entendi, deixa eu abrir aqui.
+Robson Bento Santos (GM/SEGAPE/MEC) 16 minutos 27 segundos
+Para mim, essa aqui consolidado, então você deixa eu pegar aqui uma informação qualquer.
+Robson Bento Santos (GM/SEGAPE/MEC) 16 minutos 33 segundos
+Sei lá, cadê Porto?
+Robson Bento Santos (GM/SEGAPE/MEC) 16 minutos 37 segundos
+Que seja pequena.
+Robson Bento Santos (GM/SEGAPE/MEC) 16 minutos 40 segundos
+Pronto, Oliveira de Sa mento.
+Robson Bento Santos (GM/SEGAPE/MEC) 16 minutos 44 segundos
+Só vai ter 2 informações, deixa eu aumentar o zoom aqui.
+Robson Bento Santos (GM/SEGAPE/MEC) 16 minutos 49 segundos
+Pronto, aí o que acontece, o que você, pelo que eu entendi, você foi lá, pegou a coluna é 27, que é essa daqui e arrastou e jogou aqui que ele somou.
+Robson Bento Santos (GM/SEGAPE/MEC) 17 minutos
+Não é isso. É tipo soma de despesa empenhada. O problema é que eu tenho uma outra despesa empenhada, que está na outra tabela, que é a tabela de como é que se diz?
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+17 minutos 1 segundo17:01
+André da Silva Batista de Farias (STIC\SEGAPE) 17 minutos 1 segundo
+Ishida.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+17 minutos 11 segundos17:11
+Robson Bento Santos (GM/SEGAPE/MEC) 17 minutos 11 segundos
+É a tabela da do só toda vez estou escrevendo dos hospitais, está? Então vamos aqui. A despesa empenhada está nessa outra tabela aqui que eu tenho. E aí o que acontece? Eu preciso numa única médica que tem a soma dessa tabela, mas a despesa a empenhada da outra.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+17 minutos 27 segundos17:27
+André da Silva Batista de Farias (STIC\SEGAPE) 17 minutos 27 segundos
+Pereira de Jesus. Pereira de Jesus.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+17 minutos 29 segundos17:29
+Robson Bento Santos (GM/SEGAPE/MEC) 17 minutos 29 segundos
+Está entendendo? Aí eu vou simplesmente aqui no Brito. Eu vou botar, não é? Eu estou mostrando aqui que é mais ou menos a mesma lógica. Se ela voltar aqui a total empenhado, por exemplo, igual aí vou botar some. E aí é, vou pegar aqui.
+Robson Bento Santos (GM/SEGAPE/MEC) 17 minutos 46 segundos
+É despe pronto, despesa empenhada, por exemplo, aqui ele está trazendo essa tabela.
+Robson Bento Santos (GM/SEGAPE/MEC) 17 minutos 51 segundos
+Aqui é uma tabela some nessa tabela, mas aí seria, sei lá, do orçamento mais some. Aí você vai botar outra despesa empenhada do cadê? Tem outra despesa empenhada aqui, por exemplo, aqui já é outra tabela, orçamento ano.
+Robson Bento Santos (GM/SEGAPE/MEC) 18 minutos 7 segundos
+Entendeste? Aí, teoricamente, essa médica vai ser a soma da despesa da tabela lá que tem as institutos e as universidades, mais a soma da tabela que tem o só o hospital. E aí tu usa essa médica. Aí quando tu bota essa médica lá no gráfico, aí ele já vai trazer os 2 juntos.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+18 minutos 9 segundos18:09
+André da Silva Batista de Farias (STIC\SEGAPE) 18 minutos 9 segundos
+Augusto.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+18 minutos 27 segundos18:27
+Robson Bento Santos (GM/SEGAPE/MEC) 18 minutos 27 segundos
+Não é? Então, se a pessoa clicar lá em hospital, obviamente ele não vai contar essa despesa empenhada porque não tem hospital na primeira tabela, está entendendo? Ele vai fazer o filtro de tabela já automático. Não sei se entender. Se deu para entender.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+18 minutos 40 segundos18:40
+André da Silva Batista de Farias (STIC\SEGAPE) 18 minutos 40 segundos
+Entendi, entendi.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+18 minutos 41 segundos18:41
+Robson Bento Santos (GM/SEGAPE/MEC) 18 minutos 41 segundos
+Pronto, aí é essa. É assim, é a marretada. A gente vai dar uma de Thor. Não é porque o pessoal, a lógica lá do ATS, eles não querem, é hospital.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+18 minutos 42 segundos18:42
+André da Silva Batista de Farias (STIC\SEGAPE) 18 minutos 42 segundos
+Porto.
+André da Silva Batista de Farias (STIC\SEGAPE) 18 minutos 50 segundos
+Okay.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+18 minutos 56 segundos18:56
+Robson Bento Santos (GM/SEGAPE/MEC) 18 minutos 56 segundos
+E já o Painel quer hospital, então eu tenho uma base bem robusta, legal, que é a do ATS, mas ela está incompleta em relação ao do.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+18 minutos 57 segundos18:57
+André da Silva Batista de Farias (STIC\SEGAPE) 18 minutos 57 segundos
+True.
+André da Silva Batista de Farias (STIC\SEGAPE) 19 minutos 6 segundos
+Estes hospitais.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+19 minutos 7 segundos19:07
+Robson Bento Santos (GM/SEGAPE/MEC) 19 minutos 7 segundos
+Do é do Painel que é hospital. E aí a jogada que eu vi é a gente trazer essa outra, entendesse? E aí assim, com isso para mim, aí a gente a gente faz o teste, você vai fazer essa médica somando essas 2 é a coluna 27 da.
+Robson Bento Santos (GM/SEGAPE/MEC) 19 minutos 25 segundos
+É, cadê? Deixa eu só voltar aqui. Vai ser a soma, não é? Some da coluna 27, despesa empenhada dessa tabela.
+Robson Bento Santos (GM/SEGAPE/MEC) 19 minutos 34 segundos
+Mas a soma, cadê a tabela? Qual que eu nunca lembro?
+Robson Bento Santos (GM/SEGAPE/MEC) 19 minutos 39 segundos
+Essa aqui é as a soma da coluna 27 da dessa tabela ou unidade orçamentária, com a soma da outra tabela que tu vai tratar, que é do é, pode até botar orçamento, é.
+Robson Bento Santos (GM/SEGAPE/MEC) 19 minutos 56 segundos
+Hospitais entendeu que seria coluna 13, então a coluna 27 daquela outra lá que já está, mas a soma com a coluna 13, essa daqui, aí você vai ter a despesa empenhada e vai estar tudo junto, entendeu? Então só fechando o que precisa é pegar essa tabela.
+Robson Bento Santos (GM/SEGAPE/MEC) 20 minutos 14 segundos
+É pegou a tabela, joga o.
+Robson Bento Santos (GM/SEGAPE/MEC) 20 minutos 20 segundos
+como é que se diz os dois filtros de ano né que tem que ser 2019 20 2122 24 25 e o outro e o filtro da UOL né que ele vai separar somente a dos hospitais e é feito isso
+Robson Bento Santos (GM/SEGAPE/MEC) 20 minutos 35 segundos
+Aí uma vez que você fizer isso, aí você vai lá, cria aquela médica de despesa empenhada, que aí ele vai é somar, aí vai juntar as 2, aí vai ter uma coisa só. E aí sim, é quando for aqui no Painel.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+20 minutos 41 segundos20:41
+André da Silva Batista de Farias (STIC\SEGAPE) 20 minutos 41 segundos
+Okay.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+20 minutos 50 segundos20:50
+Robson Bento Santos (GM/SEGAPE/MEC) 20 minutos 50 segundos
+No Painel mesmo, deixa eu colocar aqui fora, aí aqui onde você botou a métrica, você tem que botar essa que você vai criar.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+20 minutos 58 segundos20:58
+André da Silva Batista de Farias (STIC\SEGAPE) 20 minutos 58 segundos
+Então.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+20 minutos 58 segundos20:58
+Robson Bento Santos (GM/SEGAPE/MEC) 20 minutos 58 segundos
+Entendeu isso para todas, não é? Então, onde estiver despesa empenhada, É Ela vai entrar.
+Robson Bento Santos (GM/SEGAPE/MEC) 21 minutos 8 segundos
+Cade.
+Robson Bento Santos (GM/SEGAPE/MEC) 21 minutos 10 segundos
+Pronto, você faz. E aí quando você jogar qualquer coisa, se de alguma inconsistência a gente analisa. Mas basicamente é isso, entendeu? Com essa gambiarra a gente vai conseguir colocar ou como é que se diz os hospitais lá.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+21 minutos 24 segundos21:24
+André da Silva Batista de Farias (STIC\SEGAPE) 21 minutos 24 segundos
+Paz Paz Paz Paz Paz Paz Paz A
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+21 minutos 26 segundos21:26
+Robson Bento Santos (GM/SEGAPE/MEC) 21 minutos 26 segundos
+É aí o que acontece. Como eu já falei com o pessoal do Lake, ele disse que IA subir agora pela manhã ou no máximo no começo da tarde, eles vão subir a atualização da outra tabela que é, cadê?
+Robson Bento Santos (GM/SEGAPE/MEC) 21 minutos 42 segundos
+Aqui, Oh.
+Robson Bento Santos (GM/SEGAPE/MEC) 21 minutos 45 segundos
+Porque se você olhar, não aparece, eu acho que não aparece.
+Robson Bento Santos (GM/SEGAPE/MEC) 21 minutos 50 segundos
+Deixa eu colocar aqui, não sei se você lembra daquela terceira tabela que é só para fazer o filtro.
+Robson Bento Santos (GM/SEGAPE/MEC) 21 minutos 58 segundos
+Pronto, essa tabela aqui, Oh, que é aquela de grupo.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+22 minutos 3 segundos22:03
+André da Silva Batista de Farias (STIC\SEGAPE) 22 minutos 3 segundos
+Tá okay?
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+22 minutos 4 segundos22:04
+Robson Bento Santos (GM/SEGAPE/MEC) 22 minutos 4 segundos
+É essa de grupo, que é que a gente usa para fazer o filtro. Se não me falha a memória, mas é independente. É quando você clica lá. Quando você botou o filtro, aparece hospitais, não.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+22 minutos 17 segundos22:17
+André da Silva Batista de Farias (STIC\SEGAPE) 22 minutos 17 segundos
+Não aparece?
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+22 minutos 17 segundos22:17
+Robson Bento Santos (GM/SEGAPE/MEC) 22 minutos 17 segundos
+Deixa só não aparece. É pronto. É exatamente isso aí. O que acontece? Eu já inclui esses esses códigos aqui.
+Robson Bento Santos (GM/SEGAPE/MEC) 22 minutos 27 segundos
+Cade aqui? Deixa eu abrir, deixa eu fechar isso aqui.
+Robson Bento Santos (GM/SEGAPE/MEC) 22 minutos 30 segundos
+E vou abrir a pronto, essa daqui é.
+Robson Bento Santos (GM/SEGAPE/MEC) 22 minutos 37 segundos
+Cadê só confirmar? É isso mesmo, é a cara do grupo.
+Robson Bento Santos (GM/SEGAPE/MEC) 22 minutos 41 segundos
+Essa aqui é a tabela que só tinha instituto e universidade. Aí agora ela tem hospital, está vendo? Quando eu boto, agora aparece os hospitais. Então eu já passei essa informação para o pessoal do Lake e falei com o Ialy de uma certa urgência. Ela vai.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+22 minutos 57 segundos22:57
+André da Silva Batista de Farias (STIC\SEGAPE) 22 minutos 57 segundos
+O.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+22 minutos 58 segundos22:58
+Robson Bento Santos (GM/SEGAPE/MEC) 22 minutos 58 segundos
+Ela disse que vai hoje agora pela manhã ou no começo da tarde, então vai aparecer automaticamente no seu relatório, porque ele já está em casa, então vai atualizar lá o Lake. E aí essa parte aí é a gente fica só na dependência do pessoal do Lake.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+23 minutos 7 segundos23:07
+André da Silva Batista de Farias (STIC\SEGAPE) 23 minutos 7 segundos
+Okay.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+23 minutos 14 segundos23:14
+Robson Bento Santos (GM/SEGAPE/MEC) 23 minutos 14 segundos
+Para quando vim aqui, aí vai aparecer normal, automático aqui. Deixa eu botar aqui leitura pronto. Aí quando for é aqui.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+23 minutos 14 segundos23:14
+André da Silva Batista de Farias (STIC\SEGAPE) 23 minutos 14 segundos
+Tá.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+23 minutos 25 segundos23:25
+Robson Bento Santos (GM/SEGAPE/MEC) 23 minutos 25 segundos
+Não aqui não aqui ó aqui também quando for aqui vai aparecer é como é que se diz os hospitais tá porque essa daqui tá nem lá então essa aqui não eu o que eu tinha para fazer já fiz já mandei para o pessoal do leite e aí a gente só precisa ajustar essa questão do empenhado
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+23 minutos 31 segundos23:31
+André da Silva Batista de Farias (STIC\SEGAPE) 23 minutos 31 segundos
+Hospitais.
+André da Silva Batista de Farias (STIC\SEGAPE) 23 minutos 33 segundos
+Tá.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+23 minutos 42 segundos23:42
+Robson Bento Santos (GM/SEGAPE/MEC) 23 minutos 42 segundos
+Só entendesse? Aí você vê qualquer coisa, você me avisa, é que aí a gente faz junto, qualquer coisa está.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+23 minutos 45 segundos23:45
+André da Silva Batista de Farias (STIC\SEGAPE) 23 minutos 45 segundos
+Entendi.
+André da Silva Batista de Farias (STIC\SEGAPE) 23 minutos 47 segundos
+Isso.
+André da Silva Batista de Farias (STIC\SEGAPE) 23 minutos 52 segundos
+Tiago, tranquilo, tá? Eu acho que eu entendi a lógica agora do que é para fazer, beleza?
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+23 minutos 56 segundos23:56
+Robson Bento Santos (GM/SEGAPE/MEC) 23 minutos 56 segundos
+É, infelizmente vai ser uma gambiarra, pô. O certo mesmo é o certo. Era para estar na base agora assim, só que para o Painel, o Painel, porque o Painel é tudo para o ministro para eu não entendi porque lá no ATS ele quer ver só universidades.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+24 minutos24:00
+André da Silva Batista de Farias (STIC\SEGAPE) 24 minutos
+Hhh.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+24 minutos 13 segundos24:13
+Robson Bento Santos (GM/SEGAPE/MEC) 24 minutos 13 segundos
+Institutos e no Painel ele quer ver universidade, institutos e hospital. Aí esse aí quebrou. Então, como o Painel IA pegar a base do ATSE lá no ATS, ele não quer. Aí o Painel ficou incompleto.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+24 minutos 17 segundos24:17
+André da Silva Batista de Farias (STIC\SEGAPE) 24 minutos 17 segundos
+Em hospitais.
+André da Silva Batista de Farias (STIC\SEGAPE) 24 minutos 19 segundos
+Bento André.
+André da Silva Batista de Farias (STIC\SEGAPE) 24 minutos 22 segundos
+Hhh.
+André da Silva Batista de Farias (STIC\SEGAPE) 24 minutos 29 segundos
+Sara Augusto, não.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+24 minutos 29 segundos24:29
+Robson Bento Santos (GM/SEGAPE/MEC) 24 minutos 29 segundos
+E aí, para completar, aí a gente vai completar desse com essa, a gente vai dar uma de Thor, eu e tu, a gente vai dar só uma marretada aqui. E aí a gente e a gente consegue assim, não é fazer essa gambierra aí qualquer coisa assim no futuro.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+24 minutos 37 segundos24:37
+André da Silva Batista de Farias (STIC\SEGAPE) 24 minutos 37 segundos
+Ishida.
+André da Silva Batista de Farias (STIC\SEGAPE) 24 minutos 40 segundos
+Não tranquilo.
+André da Silva Batista de Farias (STIC\SEGAPE) 24 minutos 43 segundos
+Tiago.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+24 minutos 43 segundos24:43
+Robson Bento Santos (GM/SEGAPE/MEC) 24 minutos 43 segundos
+Eles disseram que vão incluir lá no ATS, aí beleza, se incluir no ATS, aí a gente desfaz essa gambiarra.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+24 minutos 50 segundos24:50
+André da Silva Batista de Farias (STIC\SEGAPE) 24 minutos 50 segundos
+Já até dá pra é não tranquilo, é. Eu acho que acho que é o de menos aí. Eu acho que provavelmente hoje a gente deve estar concluindo isso definitivo.
+André da Silva Batista de Farias (STIC\SEGAPE) 25 minutos 1 segundo
+Tomara, né? Mas aí é, aí eu vou te chamar de Tade para a gente. Assim que eu concluir essa parte a gente da a última validade a verificar se está tudo certo.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+25 minutos 1 segundo25:01
+Robson Bento Santos (GM/SEGAPE/MEC) 25 minutos 1 segundo
+Pronto.
+Robson Bento Santos (GM/SEGAPE/MEC) 25 minutos 6 segundos
+Pronto, veio.
+Robson Bento Santos (GM/SEGAPE/MEC) 25 minutos 13 segundos
+Perfeito, pronto, veio aí minha agenda hoje eu.
+Robson Bento Santos (GM/SEGAPE/MEC) 25 minutos 18 segundos
+Cade a deixa eu só ver não mas eu tenho hoje é entre 2 a uma e meia até 2 e meia se você conseguir alguma coisa eu estou livre porque eu só vou entrar numa reunião no MG a partir das 2:30. Depois disso eu a partir das 4.
+Robson Bento Santos (GM/SEGAPE/MEC) 25 minutos 36 segundos
+Beleza então caso você queira conversar comigo alguma coisa fica mais tranquilo para mim entre 1 e 6 2 e meia a partir das quatro eu tô direto não é porque aí é como eu trabalho no MG eu sempre separa essa hora de 11 horas para ver algumas coisinhas sem justamente para gente ajustar
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+25 minutos 36 segundos25:36
+André da Silva Batista de Farias (STIC\SEGAPE) 25 minutos 36 segundos
+Cesar.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+25 minutos 53 segundos25:53
+Robson Bento Santos (GM/SEGAPE/MEC) 25 minutos 53 segundos
+E aí eu retorno para OMGI à tarde, mas só que hoje à tarde eu só tenho uma agenda com eles de 2 e meia, entendeu? Aí se você quiser alguma, qualquer coisa, se já tiver alguma coisa, se não sei, aí é a tua demanda.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+26 minutos26:00
+André da Silva Batista de Farias (STIC\SEGAPE) 26 minutos
+E de Jesus.
+André da Silva Batista de Farias (STIC\SEGAPE) 26 minutos 4 segundos
+Vamos usar as dúvidas iniciais ali para a Cortellazzi, eu acho que eu consigo tirar.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+26 minutos 9 segundos26:09
+Robson Bento Santos (GM/SEGAPE/MEC) 26 minutos 9 segundos
+Pronto, aí isso daqui uma entre um e-mail e 2 e meia, eu estou de boa. Aí, caso não dê para você, aí a partir das 4:00 eu estou tranquilo, beleza? Eu só não vou conseguir entre 2 e 64 horas. Aí você pode até mandar alguma mensagem assim, só não garanto responder na hora, porque como eu vou estar em outra demanda, mas assim que tiver mais livre, qualquer coisa eu respondo.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+26 minutos 12 segundos26:12
+André da Silva Batista de Farias (STIC\SEGAPE) 26 minutos 12 segundos
+Perfeito.
+André da Silva Batista de Farias (STIC\SEGAPE) 26 minutos 17 segundos
+Santos.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+26 minutos 27 segundos26:27
+Robson Bento Santos (GM/SEGAPE/MEC) 26 minutos 27 segundos
+E assim para conversar mesmo, se quiser uma abrir uma reunião, um chatzinho assim, a gente conversa nesses horários que eu te disse, beleza?
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+26 minutos 35 segundos26:35
+André da Silva Batista de Farias (STIC\SEGAPE) 26 minutos 35 segundos
+Tá ótimo, não perfeito, perfeito.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+26 minutos 38 segundos26:38
+Robson Bento Santos (GM/SEGAPE/MEC) 26 minutos 38 segundos
+Pronto, aí a gente fecha assim, aí qualquer coisa a gente vai conversando.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+26 minutos 42 segundos26:42
+André da Silva Batista de Farias (STIC\SEGAPE) 26 minutos 42 segundos
+Certo? Muito obrigado mais uma vez, Bento. Valeu demais, Pereira.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+26 minutos 44 segundos26:44
+Robson Bento Santos (GM/SEGAPE/MEC) 26 minutos 44 segundos
+O que é isso? Agora foi mal porque não deu para fazer no documento. Eu digo, eu vou fazer uma reuniãozinha rápida, porque o documento vai demorar mais, tá? Porque eu gosto mais dela comer, porque fica documentado, fica melhor de revisar tal, não é? Mas aí.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+26 minutos 50 segundos26:50
+André da Silva Batista de Farias (STIC\SEGAPE) 26 minutos 50 segundos
+Não acho.
+André da Silva Batista de Farias (STIC\SEGAPE) 26 minutos 56 segundos
+Não, mas eu acho que você viu. É como pelo menos AO os outros documentos explicaram muito bem a lógica, mas é nesse agora começou a questão de ajuste de detalhe e deu para pegar bem e faz que foi até melhor assim, porque até a gente esperar.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+27 minutos 9 segundos27:09
+Robson Bento Santos (GM/SEGAPE/MEC) 27 minutos 9 segundos
+Pronto.
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+27 minutos 12 segundos27:12
+André da Silva Batista de Farias (STIC\SEGAPE) 27 minutos 12 segundos
+Ter tempo para a gente fazer a questão da documentação e é e é tempo de nós. Não vale a pena não. Muito mais rápido da cal.
+
+Robson Bento Santos (GM/SEGAPE/MEC)
+27 minutos 15 segundos27:15
+Robson Bento Santos (GM/SEGAPE/MEC) 27 minutos 15 segundos
+É não é por isso é exatamente foi por isso que eu digo eu vou fazer a reunião logo porque for fazer o documento vai demorar e vai ficar muito em cima e aí você vai fazendo E aí qualquer coisa tá por aqui beleza
+
+André da Silva Batista de Farias (STIC\SEGAPE)
+27 minutos 21 segundos27:21
+André da Silva Batista de Farias (STIC\SEGAPE) 27 minutos 21 segundos
+Já resolve já.
+André da Silva Batista de Farias (STIC\SEGAPE) 27 minutos 27 segundos
+Tranquilo, perfeito. Muito obrigado Bento, valeu demais Ka
+
+André da Silva Batista de Farias (STIC\SEGAPE) parou a transcrição

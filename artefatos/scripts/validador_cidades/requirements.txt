@@ -1,0 +1,4 @@
+google-cloud-bigquery==3.27.0
+google-auth==2.36.0
+openpyxl==3.1.5
+rich==13.9.4

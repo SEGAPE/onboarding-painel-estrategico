@@ -1,0 +1,344 @@
+A tabela abaixo foi onde foi construído o dashboard mockup que está conectado no looker studio, estou exibindo apenas a título de curiosidade. Quando for ver o pdf ou a imagem do dashboard saiba que ele foi construido com a tabela abaixo. Obviamente não vamos usar ele, é apenas pra carater de informação e compreensão.
+
+br-mec-segape-dev.projeto_painel_ministro.painel_orcamento_universidade_federal
+
+[
+  {
+    "name": "ano",
+    "mode": "",
+    "type": "INTEGER",
+    "description": "",
+    "fields": []
+  },
+  {
+    "name": "id_unidade_orcamentaria",
+    "mode": "",
+    "type": "INTEGER",
+    "description": "",
+    "fields": []
+  },
+  {
+    "name": "unidade_orcamentaria",
+    "mode": "",
+    "type": "STRING",
+    "description": "",
+    "fields": []
+  },
+  {
+    "name": "grupo_unidade_orcamentaria",
+    "mode": "",
+    "type": "STRING",
+    "description": "",
+    "fields": []
+  },
+  {
+    "name": "macro_grupo_despesa",
+    "mode": "",
+    "type": "STRING",
+    "description": "",
+    "fields": []
+  },
+  {
+    "name": "grupo_despesa",
+    "mode": "",
+    "type": "STRING",
+    "description": "",
+    "fields": []
+  },
+  {
+    "name": "resultado_lei",
+    "mode": "",
+    "type": "STRING",
+    "description": "",
+    "fields": []
+  },
+  {
+    "name": "tipo_fonte",
+    "mode": "",
+    "type": "STRING",
+    "description": "",
+    "fields": []
+  },
+  {
+    "name": "id_fonte",
+    "mode": "",
+    "type": "STRING",
+    "description": "",
+    "fields": []
+  },
+  {
+    "name": "fonte",
+    "mode": "",
+    "type": "STRING",
+    "description": "",
+    "fields": []
+  },
+  {
+    "name": "data_atualizacao",
+    "mode": "",
+    "type": "DATE",
+    "description": "",
+    "fields": []
+  },
+  {
+    "name": "total_ploa",
+    "mode": "",
+    "type": "FLOAT",
+    "description": "",
+    "fields": []
+  },
+  {
+    "name": "total_loa",
+    "mode": "",
+    "type": "FLOAT",
+    "description": "",
+    "fields": []
+  },
+  {
+    "name": "total_dotacao",
+    "mode": "",
+    "type": "FLOAT",
+    "description": "",
+    "fields": []
+  },
+  {
+    "name": "total_empenhado",
+    "mode": "",
+    "type": "FLOAT",
+    "description": "",
+    "fields": []
+  },
+  {
+    "name": "total_ploa_ipca",
+    "mode": "",
+    "type": "FLOAT",
+    "description": "",
+    "fields": []
+  },
+  {
+    "name": "total_loa_ipca",
+    "mode": "",
+    "type": "FLOAT",
+    "description": "",
+    "fields": []
+  },
+  {
+    "name": "total_dotacao_ipca",
+    "mode": "",
+    "type": "FLOAT",
+    "description": "",
+    "fields": []
+  },
+  {
+    "name": "total_empenhado_ipca",
+    "mode": "",
+    "type": "FLOAT",
+    "description": "",
+    "fields": []
+  }
+]
+
+
+
+
+[{
+  "ano": "2021",
+  "id_unidade_orcamentaria": "26256",
+  "unidade_orcamentaria": "CENTRO FED.DE EDUC.TECNOL.CELSO S.DA FONSECA",
+  "grupo_unidade_orcamentaria": "Institutos",
+  "macro_grupo_despesa": "Pessoal",
+  "grupo_despesa": "PESSOAL E ENCARGOS SOCIAIS",
+  "resultado_lei": "Pessoal/Encargos",
+  "tipo_fonte": "Tesouro",
+  "id_fonte": "00",
+  "fonte": "RECURSOS PRIMARIOS DE LIVRE APLICACAO",
+  "data_atualizacao": "2025-12-08",
+  "total_ploa": "120750679.0",
+  "total_loa": "120750679.0",
+  "total_dotacao": "248017880.0",
+  "total_empenhado": "244800687.91",
+  "total_ploa_ipca": "140098827.34",
+  "total_loa_ipca": "140098827.34",
+  "total_dotacao_ipca": "287758333.40999997",
+  "total_empenhado_ipca": "284025643.52"
+}, {
+  "ano": "2022",
+  "id_unidade_orcamentaria": "26256",
+  "unidade_orcamentaria": "CENTRO FED.DE EDUC.TECNOL.CELSO S.DA FONSECA",
+  "grupo_unidade_orcamentaria": "Institutos",
+  "macro_grupo_despesa": "Custeio",
+  "grupo_despesa": "OUTRAS DESPESAS CORRENTES",
+  "resultado_lei": "Discricionário",
+  "tipo_fonte": "Tesouro",
+  "id_fonte": "00",
+  "fonte": "RECURSOS PRIMARIOS DE LIVRE APLICACAO",
+  "data_atualizacao": "2025-12-08",
+  "total_ploa": "37658350.0",
+  "total_loa": "41425815.0",
+  "total_dotacao": "36134556.0",
+  "total_empenhado": "34851068.22",
+  "total_ploa_ipca": "41301097.18",
+  "total_loa_ipca": "45432994.57",
+  "total_dotacao_ipca": "39629904.36",
+  "total_empenhado_ipca": "38222262.93"
+}, {
+  "ano": "2016",
+  "id_unidade_orcamentaria": "26256",
+  "unidade_orcamentaria": "CENTRO FED.DE EDUC.TECNOL.CELSO S.DA FONSECA",
+  "grupo_unidade_orcamentaria": "Institutos",
+  "macro_grupo_despesa": "Custeio",
+  "grupo_despesa": "OUTRAS DESPESAS CORRENTES",
+  "resultado_lei": "Pessoal/Encargos",
+  "tipo_fonte": "Tesouro",
+  "id_fonte": "00",
+  "fonte": "RECURSOS PRIMARIOS DE LIVRE APLICACAO",
+  "data_atualizacao": "2025-12-08",
+  "total_ploa": "89688.0",
+  "total_loa": "89688.0",
+  "total_dotacao": "3677048.0",
+  "total_empenhado": "3614429.78",
+  "total_ploa_ipca": "133367.06",
+  "total_loa_ipca": "133367.06",
+  "total_dotacao_ipca": "5467811.44",
+  "total_empenhado_ipca": "5374697.44"
+}, {
+  "ano": "2016",
+  "id_unidade_orcamentaria": "26256",
+  "unidade_orcamentaria": "CENTRO FED.DE EDUC.TECNOL.CELSO S.DA FONSECA",
+  "grupo_unidade_orcamentaria": "Institutos",
+  "macro_grupo_despesa": "Pessoal",
+  "grupo_despesa": "PESSOAL E ENCARGOS SOCIAIS",
+  "resultado_lei": "Pessoal/Encargos",
+  "tipo_fonte": "Tesouro",
+  "id_fonte": "00",
+  "fonte": "RECURSOS PRIMARIOS DE LIVRE APLICACAO",
+  "data_atualizacao": "2025-12-08",
+  "total_ploa": "61574293.0",
+  "total_loa": "61574293.0",
+  "total_dotacao": "104706964.0",
+  "total_empenhado": "101297699.88",
+  "total_ploa_ipca": "91561661.28",
+  "total_loa_ipca": "91561661.28",
+  "total_dotacao_ipca": "155700424.71",
+  "total_empenhado_ipca": "150630810.9"
+}, {
+  "ano": "2016",
+  "id_unidade_orcamentaria": "26256",
+  "unidade_orcamentaria": "CENTRO FED.DE EDUC.TECNOL.CELSO S.DA FONSECA",
+  "grupo_unidade_orcamentaria": "Institutos",
+  "macro_grupo_despesa": "Custeio",
+  "grupo_despesa": "OUTRAS DESPESAS CORRENTES",
+  "resultado_lei": "Discricionário",
+  "tipo_fonte": "Tesouro",
+  "id_fonte": "00",
+  "fonte": "RECURSOS PRIMARIOS DE LIVRE APLICACAO",
+  "data_atualizacao": "2025-12-08",
+  "total_ploa": "12864680.0",
+  "total_loa": "12864680.0",
+  "total_dotacao": "12353553.0",
+  "total_empenhado": "12312684.01",
+  "total_ploa_ipca": "19129922.82",
+  "total_loa_ipca": "19129922.82",
+  "total_dotacao_ipca": "18369871.26",
+  "total_empenhado_ipca": "18309098.62"
+}, {
+  "ano": "2019",
+  "id_unidade_orcamentaria": "26256",
+  "unidade_orcamentaria": "CENTRO FED.DE EDUC.TECNOL.CELSO S.DA FONSECA",
+  "grupo_unidade_orcamentaria": "Institutos",
+  "macro_grupo_despesa": "Pessoal",
+  "grupo_despesa": "PESSOAL E ENCARGOS SOCIAIS",
+  "resultado_lei": "Pessoal/Encargos",
+  "tipo_fonte": "Tesouro",
+  "id_fonte": "00",
+  "fonte": "RECURSOS PRIMARIOS DE LIVRE APLICACAO",
+  "data_atualizacao": "2025-12-08",
+  "total_ploa": "279101278.0",
+  "total_loa": "279101278.0",
+  "total_dotacao": "307539637.0",
+  "total_empenhado": "299526082.41999996",
+  "total_ploa_ipca": "372508042.16",
+  "total_loa_ipca": "372508042.16",
+  "total_dotacao_ipca": "410463860.6",
+  "total_empenhado_ipca": "399768411.45"
+}, {
+  "ano": "2016",
+  "id_unidade_orcamentaria": "26256",
+  "unidade_orcamentaria": "CENTRO FED.DE EDUC.TECNOL.CELSO S.DA FONSECA",
+  "grupo_unidade_orcamentaria": "Institutos",
+  "macro_grupo_despesa": "Investimento",
+  "grupo_despesa": "INVESTIMENTOS",
+  "resultado_lei": "Emendas",
+  "tipo_fonte": "Emendas",
+  "id_fonte": "00",
+  "fonte": "RECURSOS PRIMARIOS DE LIVRE APLICACAO",
+  "data_atualizacao": "2025-12-08",
+  "total_ploa": "0.0",
+  "total_loa": "1000000.0",
+  "total_dotacao": "1000000.0",
+  "total_empenhado": "939987.25",
+  "total_ploa_ipca": "0.0",
+  "total_loa_ipca": "1487011.17",
+  "total_dotacao_ipca": "1487011.17",
+  "total_empenhado_ipca": "1397771.54"
+}, {
+  "ano": "2015",
+  "id_unidade_orcamentaria": "26256",
+  "unidade_orcamentaria": "CENTRO FED.DE EDUC.TECNOL.CELSO S.DA FONSECA",
+  "grupo_unidade_orcamentaria": "Institutos",
+  "macro_grupo_despesa": "Pessoal",
+  "grupo_despesa": "PESSOAL E ENCARGOS SOCIAIS",
+  "resultado_lei": "Pessoal/Encargos",
+  "tipo_fonte": "Tesouro",
+  "id_fonte": "00",
+  "fonte": "RECURSOS PRIMARIOS DE LIVRE APLICACAO",
+  "data_atualizacao": "2025-12-08",
+  "total_ploa": "96964144.0",
+  "total_loa": "96964144.0",
+  "total_dotacao": "101822108.0",
+  "total_empenhado": "101798101.1",
+  "total_ploa_ipca": "153256112.42",
+  "total_loa_ipca": "153256112.42",
+  "total_dotacao_ipca": "160934339.09",
+  "total_empenhado_ipca": "160896395.12"
+}, {
+  "ano": "2018",
+  "id_unidade_orcamentaria": "26256",
+  "unidade_orcamentaria": "CENTRO FED.DE EDUC.TECNOL.CELSO S.DA FONSECA",
+  "grupo_unidade_orcamentaria": "Institutos",
+  "macro_grupo_despesa": "Investimento",
+  "grupo_despesa": "INVESTIMENTOS",
+  "resultado_lei": "Discricionário",
+  "tipo_fonte": "Tesouro",
+  "id_fonte": "00",
+  "fonte": "RECURSOS PRIMARIOS DE LIVRE APLICACAO",
+  "data_atualizacao": "2025-12-08",
+  "total_ploa": "1999991.0",
+  "total_loa": "1999991.0",
+  "total_dotacao": "6940772.0",
+  "total_empenhado": "6940772.0",
+  "total_ploa_ipca": "2784375.57",
+  "total_loa_ipca": "2784375.57",
+  "total_dotacao_ipca": "9662901.49",
+  "total_empenhado_ipca": "9662901.49"
+}, {
+  "ano": "2015",
+  "id_unidade_orcamentaria": "26256",
+  "unidade_orcamentaria": "CENTRO FED.DE EDUC.TECNOL.CELSO S.DA FONSECA",
+  "grupo_unidade_orcamentaria": "Institutos",
+  "macro_grupo_despesa": "Custeio",
+  "grupo_despesa": "OUTRAS DESPESAS CORRENTES",
+  "resultado_lei": "Discricionário",
+  "tipo_fonte": "Tesouro",
+  "id_fonte": "00",
+  "fonte": "RECURSOS PRIMARIOS DE LIVRE APLICACAO",
+  "data_atualizacao": "2025-12-08",
+  "total_ploa": "12309731.0",
+  "total_loa": "12309731.0",
+  "total_dotacao": "12309731.0",
+  "total_empenhado": "9780609.0",
+  "total_ploa_ipca": "19456073.56",
+  "total_loa_ipca": "19456073.56",
+  "total_dotacao_ipca": "19456073.56",
+  "total_empenhado_ipca": "15458684.53"
+}]
