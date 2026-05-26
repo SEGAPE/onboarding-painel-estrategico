@@ -75,7 +75,7 @@ eram base de Excel para um problema pontual de urgência.
 - **Orçamento universidades federais** - 4 modelos a partir do Tesouro Gerencial V2
   (`painel_orcamento_base`, `painel_orcamento_universidade_federal`, `painel_credito_recebido`,
   `painel_assistencia_estudantil`). Unifica crédito originário + descentralizado, inclui hospitais
-  (EBSERH) e remove double-counting. Carga via `artefatos/scripts/etl_tesouro_orcamento_v2.py`.
+  (EBSERH) e remove double-counting. Carga via [etl-tesouro-orcamento](https://github.com/SEGAPE/etl-tesouro-orcamento).
   As versões finais foram concluídas pelo Nicholas. PRs #959/#956.
 - **PNEERQ** - 3 tabelas de infraestrutura escolar (geral, censo, quilombolas) a partir do
   Censo Escolar, com índice de infraestrutura elementar (água/esgoto/energia/internet/prédio)
@@ -105,16 +105,20 @@ Tudo em `artefatos/sql/`:
 - Briefing: `artefatos/sql/briefing_query.sql` e `briefing_consulta_documentada.sql`
 - Modelos já no repo SEGAPE/pipelines: `queries/models/projeto_painel_ministro/`
 
-## 6. Ferramentas (em `artefatos/scripts/`)
+## 6. Ferramentas (cada uma com repositório próprio na SEGAPE)
 
-- **extrator** (`extrator.ipynb`/`extrator.py`) - extrai tabelas de PDF/DOCX (tabula-py,
-  unstructured e pdfplumber com empilhamento de páginas). Usado para transformar PDFs
-  (edital ETI, obras) em planilha antes de subir para o BigQuery.
-- **validador_cidades** - diagnóstico das métricas do painel por município; diz se um zero é
-  real ou bug no pipeline. As credenciais não vão no repo (há um `service_account.example.json`).
-- **imagens_ux_ui** - gerenciador de imagens/logos para o Looker Studio (publica e gera a
-  fórmula CASE/WHEN com as URLs).
-- **etl_tesouro_orcamento_v2.py** - carga dos TXT V2 do Tesouro para o BigQuery.
+- **[extrator-documentos-tabelas](https://github.com/SEGAPE/extrator-documentos-tabelas)** -
+  extrai tabelas de PDF/DOCX (tabula-py, unstructured e pdfplumber com empilhamento de páginas).
+  Usado para transformar PDFs (edital ETI, obras) em planilha antes de subir para o BigQuery.
+- **[territorial-guard](https://github.com/SEGAPE/territorial-guard)** - diagnóstico das
+  métricas do painel por município; diz se um zero é real ou bug no pipeline (rastreia a
+  linhagem até a fonte e controla o custo das consultas).
+- **[etl-tesouro-orcamento](https://github.com/SEGAPE/etl-tesouro-orcamento)** - carga dos
+  TXT do Tesouro Gerencial para o BigQuery (orçamento das universidades e institutos federais).
+- **[painel-etl-acompanhamento](https://github.com/SEGAPE/painel-etl-acompanhamento)** - carga
+  da planilha de acompanhamento do painel (status das páginas) para o BigQuery.
+- **[imagens_ux_ui](https://github.com/SEGAPE/imagens_ux_ui)** - gerenciador de imagens/logos
+  para o Looker Studio (publica no CDN e gera a fórmula CASE/WHEN com as URLs).
 
 ## 7. Pendências conhecidas
 

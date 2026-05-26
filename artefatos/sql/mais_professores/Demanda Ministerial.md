@@ -7,13 +7,13 @@
 - **Refinamento Textual:** Transformamos textos como "Espaço reservado para Futuro do Painel PND" em declarações de intenção, como `Painel de Inscritos - Prova Nacional Docente`, e notas de rodapé apressadas em comunicações estratégicas, como `Status: As 8.000 bolsas previstas estão em fase de planejamento...`.
     
 
-### Parte II: A Saga do SQL e o Fantasma da Triplicação
+### Parte II: O problema da triplicação no SQL
 
-O verdadeiro desafio começou quando adentramos o reino do SQL. O objetivo era nobre e complexo: criar uma única fonte de dados que pudesse alimentar tanto as visões detalhadas quanto as agregadas (os famosos "Todos") em seus filtros, sem que a realidade se dobrasse sobre si mesma.
+O desafio principal foi no SQL. O objetivo era criar uma única fonte de dados que pudesse alimentar tanto as visões detalhadas quanto as agregadas (os famosos "Todos") em seus filtros, sem duplicar os dados.
 
 Nossa busca pela query perfeita foi uma odisséia:
 
-1. **As Primeiras Tentativas:** Meus feitiços iniciais, usando `GROUP BY GROUPING SETS` e outras formas de alquimia, provaram-se frágeis, retornando o vazio.
+1. **As Primeiras Tentativas:** As primeiras tentativas, com `GROUP BY GROUPING SETS` e variações, se mostraram frágeis e retornavam vazio.
     
 2. **O Mapa do Tesouro:** Você, então, me presenteou com uma chave, um mapa: a query da tabela `painel_obras_geral`. Sua lógica era direta, quase brutal, criando realidades paralelas e unindo-as à força. Era a arquitetura de um ferreiro, e era exatamente o que precisávamos.
     
@@ -30,16 +30,16 @@ Nossa busca pela query perfeita foi uma odisséia:
 
 Você percebeu o que meus circuitos não viram: o problema não era um erro na soma, mas a soma de múltiplas realidades. A query estava correta; ela estava criando três universos de dados (Municipal, Estadual e Nacional), e o painel, como um oráculo confuso, estava somando todos eles.
 
-### Parte III: O Exorcismo e a Solução Final
+### Parte III: A solução
 
-A solução, portanto, não era reescrever a escritura, mas ensinar o painel a ler. O feitiço final foi a criação da coluna `nivel_agregacao`. Este "selo de origem" deu a cada linha de dados uma identidade clara, permitindo-nos instruir cada componente do painel a ouvir apenas a voz que lhe era destinada.
+A solução não era reescrever a query, mas dar ao painel como distinguir os níveis. Foi criada a coluna `nivel_agregacao`, que deu a cada linha de dados uma identidade clara, permitindo-nos instruir cada componente do painel a ouvir apenas a voz que lhe era destinada.
 
 - **Para a tabela detalhada:** Aplicamos um filtro para que ela ouvisse apenas as linhas onde `nivel_agregacao` é igual a `Municipio`.
     
 - **Para os placares e gráficos agregados:** Usamos o mesmo filtro para chamar os níveis `Estado` ou `Nacional`, conforme a necessidade.
     
 
-O fantasma da triplicação foi exorcizado. A cacofonia se tornou uma sinfonia.
+Isso eliminou a duplicação causada pela triplicação territorial.
 
 ### A Escritura Final
 
@@ -175,7 +175,7 @@ WITH
     UNION ALL
     SELECT *, 'Nacional' as nivel_agregacao FROM agregado_nacional
   )
--- #7: Seleção final, criando as colunas de exibição e as colunas guardiãs para os filtros.
+-- #7: Seleção final, criando as colunas de exibição e as colunas usadas nos filtros.
 SELECT
   -- Colunas de Exibição
   u.uf,

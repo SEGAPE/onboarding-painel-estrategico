@@ -1,6 +1,6 @@
-### Comentários do Encantamento
+### Notas de implementação
 
-1. **`CREATE OR REPLACE TABLE`**: O comando que inicia nossa refundação, mirando na tabela `painel_obras_geral`.
+1. **`CREATE OR REPLACE TABLE`**: Cria ou substitui a tabela `painel_obras_geral`.
 
 2. **`territorio` e Filtro de Nulos**: Mantemos nosso mapa territorial e o filtro inicial que tira os registros sem nome ou código
 

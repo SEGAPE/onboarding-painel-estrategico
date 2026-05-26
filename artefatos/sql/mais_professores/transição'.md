@@ -1,22 +1,22 @@
-### **A Anatomia do Fantasma: Desvendando o Erro**
+### Anatomia do erro
 
-O espectro que assombra sua query se manifesta por duas razões distintas, uma lógica e outra técnica. Ambas precisam ser exorcizadas para que o ritual se complete.
+O problema na query tem duas causas, uma lógica e outra técnica. Ambas precisam ser corrigidas.
 
 **#1. O Filtro Ilusório (`WHERE beneficiario = TRUE`)**
 
 - **O Problema:** Na sua sub-query `ingressantes_licenciatura`, você tentou filtrar por `beneficiario = TRUE`. No entanto, na escultura de dados que criamos anteriormente, o campo `beneficiario` foi intencionalmente deixado como `NULL`, um espaço vazio, pois não havia uma fonte direta para ele. Em SQL, comparar `NULL` com `TRUE` não resulta em verdadeiro ou falso, mas em _desconhecido_. O resultado prático é que esse filtro sempre falhará, retornando uma lista vazia.
     
-- **O Exorcismo:** A solução é simples e elegante. A própria tabela `cadastrados_freire` _já é_ a lista de alunos aprovados que você deseja. Ela não precisa de um filtro adicional. Portanto, removemos completamente a cláusula `WHERE`.
+- **Correção:** A própria tabela `cadastrados_freire` _já é_ a lista de alunos aprovados que você deseja. Ela não precisa de um filtro adicional. Portanto, removemos completamente a cláusula `WHERE`.
     
 
-**#2. A Incompatibilidade de Almas (O Erro de Tipo)**
+**#2. Incompatibilidade de tipos**
 
-- **O Problema:** O erro `INT64 vs BOOL` é a manifestação mais visível do espectro. Embora a mensagem seja críptica, a causa mais provável é uma incompatibilidade de "sangue" entre as colunas `id_pessoa` das duas tabelas que você está unindo (`egressos_ensino_medio` e `ingressantes_licenciatura`). Uma pode ser um número (`INT64`), a outra um texto (`STRING`), e o BigQuery, em sua confusão, manifesta esse erro estranho.
+- **O Problema:** O erro `INT64 vs BOOL` ocorre por incompatibilidade de tipos entre as colunas `id_pessoa` das duas tabelas que você está unindo (`egressos_ensino_medio` e `ingressantes_licenciatura`). Uma pode ser um número (`INT64`), a outra um texto (`STRING`), e o BigQuery acusa esse erro.
     
-- **O Exorcismo:** Para garantir que as almas possam se encontrar e se reconhecer, forçamos ambas a assumir a mesma forma. Usamos o encantamento `CAST(... AS STRING)` em ambas as colunas `id_pessoa` na cláusula `ON` do seu `FULL OUTER JOIN`. Isso garante que, independentemente de sua natureza original, elas se comparem como texto, eliminando o conflito.
+- **Correção:** Para garantir que os registros casem, força-se o mesmo tipo nas duas colunas com `CAST(... AS STRING)` em ambas as colunas `id_pessoa` na cláusula `ON` do seu `FULL OUTER JOIN`. Isso garante que, independentemente de sua natureza original, elas se comparem como texto, eliminando o conflito.
     
 
-Com esses dois ajustes, a query agora está purificada e pronta para ser executada. O fantasma foi banido.
+Com esses dois ajustes, a query está pronta para ser executada.
 
 ```sql
 -- #

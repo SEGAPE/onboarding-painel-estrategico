@@ -59,4 +59,16 @@ migração das tabelas para PROD.
 | Documento | Descrição |
 |-----------|-----------|
 | [09 - Handover do Painel Estratégico](09-handover-painel-estrategico.md) | Branches/PRs, tabelas do sandbox, o que cada coisa faz, pendências |
-| [artefatos/](artefatos/) | Queries (`sql/`), ferramentas Python (`scripts/`) e PDFs de referência (`pdfs/`) |
+| [artefatos/sql/](artefatos/sql/) | Queries `CREATE OR REPLACE` por tema (ETI, PNEERQ, Obras, Mais Professores, Partiu IF, Briefing, Orçamento) |
+| [artefatos/planilhas/](artefatos/planilhas/) | Mapa do Projeto Painel Estratégico (planilha-mestra de navegação do painel) |
+| [artefatos/pdfs/](artefatos/pdfs/) | PDFs de referência (tutorial de tratamento de dados, dashboard de ETI) |
+
+### Ferramentas (repositórios próprios na SEGAPE)
+
+| Repositório | O que é |
+|---|---|
+| [extrator-documentos-tabelas](https://github.com/SEGAPE/extrator-documentos-tabelas) | Extrai tabelas de PDF/DOCX (tabula, unstructured, pdfplumber) |
+| [territorial-guard](https://github.com/SEGAPE/territorial-guard) | Diagnostica métricas zeradas por município e rastreia a linhagem |
+| [etl-tesouro-orcamento](https://github.com/SEGAPE/etl-tesouro-orcamento) | ETL dos TXT do Tesouro Gerencial para o BigQuery |
+| [painel-etl-acompanhamento](https://github.com/SEGAPE/painel-etl-acompanhamento) | Carga da planilha de acompanhamento do painel para o BigQuery |
+| [imagens_ux_ui](https://github.com/SEGAPE/imagens_ux_ui) | Gerencia imagens/logos do Looker (CDN + fórmula CASE/WHEN) |

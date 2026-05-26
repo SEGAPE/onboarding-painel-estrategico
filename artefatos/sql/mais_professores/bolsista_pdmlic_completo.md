@@ -1,12 +1,12 @@
 **Propósito:** Unir os registros detalhados de pagamento dos bolsistas com as informações geográficas (UF, Região) de suas instituições de ensino, permitindo análises espaciais detalhadas.
 
-**O Ritual:**
+**Como funciona:**
 
-1. **O Pacto de União Total (`FULL OUTER JOIN`)**: Usamos o encantamento mais inclusivo para unir a tabela `bolsista_pdmlic` (os detalhes do pagamento) e `bolsistas_pdmlic_uf_full` (os dados geográficos da instituição). Este `JOIN` garante que nenhum registro de nenhum dos lados seja perdido, mesmo que não encontre um par.
+1. **União completa (`FULL OUTER JOIN`)**: usa o JOIN mais inclusivo para unir a tabela `bolsista_pdmlic` (os detalhes do pagamento) e `bolsistas_pdmlic_uf_full` (os dados geográficos da instituição). Este `JOIN` garante que nenhum registro de nenhum dos lados seja perdido, mesmo que não encontre um par.
 
 2. **A Chave da Conexão (`ON`)**: O elo entre os dois mundos é forjado pelo código `id_entidade_emec`, garantindo que os dados de um bolsista sejam corretamente associados à localização de sua instituição.
 
-3. **A Convocação das Almas (`SELECT`)**: Finalmente, convocamos todas as colunas de ambas as tabelas para a nova entidade, renomeando campos conflitantes e usando `COALESCE` para criar uma chave mestra unificada e sem vazios, pronta para ser interrogada em seus painéis.
+3. **Seleção final (`SELECT`)**: seleciona todas as colunas das duas tabelas, renomeia campos conflitantes e usa `COALESCE` para criar uma chave unificada sem vazios.
 
 ```sql
 -- #1

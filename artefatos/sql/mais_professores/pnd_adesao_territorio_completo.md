@@ -2,9 +2,9 @@ que não aderiu fica destacado, branco  ou azul para marcar quem aderiu.
 
 **Propósito:** Gerar um mapa completo do universo de adesão à Prova Nacional Docente, não apenas mostrando quem aderiu, mas também quem não aderiu e definindo a participação de um estado com base na lealdade de seus municípios.
 
-**O Ritual:**
+**Como funciona:**
 
-1. **A Cisão das Almas (CTEs)**: Primeiro, separamos as adesões da tabela `pnd_adesao` em dois grupos puros: `adesao_municipios` (códigos com mais de 2 caracteres) e `adesao_estados` (códigos com exatamente 2 caracteres).
+1. **Separação em CTEs**: separa as adesões da tabela `pnd_adesao` em dois grupos: `adesao_municipios` (códigos com mais de 2 caracteres) e `adesao_estados` (códigos com exatamente 2 caracteres).
 
 2. **O Círculo dos Leais (`ufs_participantes`)**: É uma lista definitiva de todos os estados "participantes". Esta lista é forjada unindo as UFs que aderiram diretamente com as UFs de todos os municípios que aderiram individualmente. É o coração da lógica de "participação hereditária".
 
@@ -1527,7 +1527,7 @@ SELECT
   END AS participa_estado
 
 FROM
-  -- #3: A estrutura de JOINs permanece, convocando todos os espíritos
+  -- #3: A estrutura de JOINs permanece, trazendo todas as tabelas
   `br-mec-segape-dev.projeto_painel_ministro.filtro_territorio` AS ft
 LEFT JOIN
   uf_map map ON ft.id = map.id_uf_numerico
